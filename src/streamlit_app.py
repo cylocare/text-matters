@@ -40,7 +40,7 @@ languages = [
 prompt_template = os.environ['PROMPT_TEMPLATE']
 
 # Streamlit UI
-st.title("Multi-Language XML Translator")
+st.title("Translations | Cylo")
 xml_input = st.text_area("Paste your XML here:")
 translate_button = st.button("Translate")
 
