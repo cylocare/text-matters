@@ -44,7 +44,7 @@ if not st.session_state.authenticated:
 languages = [
     "Hindi", "Spanish", "Mandarin Chinese", "Portuguese", "Russian", "Japanese", "Korean",
     "Indonesian (Bahasa Indonesia)", "Turkish", "Thai", "Vietnamese", "French", "German",
-    "Italian", "Polish", "Bengali", "Ukrainian", "Nepali (Nepal)", "Yoruba (Nigeria)", "Zulu (South Africa)"
+    "Italian", "Polish", "Bengali", "Ukrainian", "Nepali (Nepal)", "Zulu (South Africa)"
 ]
 prompt_template = os.environ["PROMPT_TEMPLATE"]
 
