@@ -1,3 +1,62 @@
 {
-  
+  "Hindi": {
+    "sync_now": "\u0905\u092d\u0940 \u0938\u093f\u0902\u0915 \u0915\u0930\u0947\u0902"
+  },
+  "Spanish": {
+    "sync_now": "Sincronizar ahora"
+  },
+  "Mandarin Chinese": {
+    "sync_now": "\u7acb\u5373\u540c\u6b65"
+  },
+  "Portuguese": {
+    "sync_now": "Sincronizar agora"
+  },
+  "Russian": {
+    "sync_now": "\u0421\u0438\u043d\u0445\u0440\u043e\u043d\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0441\u0435\u0439\u0447\u0430\u0441"
+  },
+  "Japanese": {
+    "sync_now": "\u4eca\u3059\u3050\u540c\u671f"
+  },
+  "Korean": {
+    "sync_now": "\uc9c0\uae08 \ub3d9\uae30\ud654"
+  },
+  "Indonesian (Bahasa Indonesia)": {
+    "sync_now": "Sinkronkan Sekarang"
+  },
+  "Turkish": {
+    "sync_now": "\u015eimdi Senkronize Et"
+  },
+  "Thai": {
+    "sync_now": "\u0e0b\u0e34\u0e07\u0e04\u0e4c\u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e19\u0e35\u0e49"
+  },
+  "Vietnamese": {
+    "sync_now": "\u0110\u1ed3ng b\u1ed9 ngay"
+  },
+  "French": {
+    "sync_now": "Synchroniser maintenant"
+  },
+  "German": {
+    "sync_now": "Jetzt synchronisieren"
+  },
+  "Italian": {
+    "sync_now": "Sincronizza ora"
+  },
+  "Polish": {
+    "sync_now": "Synchronizuj teraz"
+  },
+  "Bengali": {
+    "sync_now": "\u09a4\u09ce\u0995\u09cd\u09b7\u09a3\u09be\u09ce \u09b8\u09bf\u0999\u09cd\u0995 \u0995\u09b0\u09c1\u09a8"
+  },
+  "Ukrainian": {
+    "sync_now": "\u0421\u0438\u043d\u0445\u0440\u043e\u043d\u0456\u0437\u0443\u0432\u0430\u0442\u0438 \u0437\u0430\u0440\u0430\u0437"
+  },
+  "Nepali (Nepal)": {
+    "sync_now": "\u0905\u0939\u093f\u0932\u0947 \u0928\u0948 \u0938\u093f\u0902\u0915 \u0917\u0930\u094d\u0928\u0941\u0939\u094b\u0938\u094d"
+  },
+  "Yoruba (Nigeria)": {
+    "sync_now": "\u1e62op\u1ecd Bayi"
+  },
+  "Zulu (South Africa)": {
+    "sync_now": "Xhumanisa Manje"
+  }
 }
