@@ -6,7 +6,11 @@
     "text_cycle_summary": "\u0938\u093e\u0907\u0915\u0932 \u0938\u093e\u0930\u093e\u0902\u0936",
     "text_cycle_history": "\u0938\u093e\u0907\u0915\u0932 \u0907\u0924\u093f\u0939\u093e\u0938",
     "text_cycle_status": "\u0938\u093e\u0907\u0915\u0932 \u0938\u094d\u0925\u093f\u0924\u093f",
-    "we_care_top_bar_title": "\u0935\u0940 \u0915\u0947\u092f\u0930"
+    "we_care_top_bar_title": "\u0935\u0940 \u0915\u0947\u092f\u0930",
+    "are_you_sure": "\u0915\u094d\u092f\u093e \u0906\u092a \u0938\u0941\u0928\u093f\u0936\u094d\u091a\u093f\u0924 \u0939\u0948\u0902?",
+    "use_this_method": "\u0907\u0938 \u0935\u093f\u0927\u093f \u0915\u093e \u0909\u092a\u092f\u094b\u0917 \u0915\u0930\u0915\u0947 \u0921\u0947\u091f\u093e \u0915\u093e \u092c\u0948\u0915\u0905\u092a \u0932\u0947\u0902",
+    "skip_login": "\u0932\u0949\u0917\u093f\u0928 \u0938\u094d\u0915\u093f\u092a \u0915\u0930\u0947\u0902 \u0914\u0930 \u091c\u093e\u0930\u0940 \u0930\u0916\u0947\u0902",
+    "last_period_question": "\u0906\u092a\u0915\u0947 \u092a\u093f\u091b\u0932\u0947 \u092a\u0940\u0930\u093f\u092f\u0921 \u0915\u0940 \u0936\u0941\u0930\u0941\u0906\u0924 \u0915\u0940 \u0924\u093e\u0930\u0940\u0916 \u0915\u094d\u092f\u093e \u0939\u0948?"
   },
   "Spanish": {
     "sync_now": "Sincronizar ahora",
@@ -15,7 +19,11 @@
     "text_cycle_summary": "Resumen del Ciclo",
     "text_cycle_history": "Historial del Ciclo",
     "text_cycle_status": "Estado del Ciclo",
-    "we_care_top_bar_title": "Nos Importa"
+    "we_care_top_bar_title": "Nos Importa",
+    "are_you_sure": "\u00bfEst\u00e1s seguro?",
+    "use_this_method": "Usa este m\u00e9todo para respaldar tus datos",
+    "skip_login": "Omitir inicio de sesi\u00f3n y continuar",
+    "last_period_question": "\u00bfCu\u00e1l es la fecha de inicio de tu \u00faltimo per\u00edodo?"
   },
   "Mandarin Chinese": {
     "sync_now": "\u7acb\u5373\u540c\u6b65",
@@ -24,7 +32,11 @@
     "text_cycle_summary": "\u5468\u671f\u603b\u7ed3",
     "text_cycle_history": "\u5468\u671f\u5386\u53f2\u8bb0\u5f55",
     "text_cycle_status": "\u5468\u671f\u72b6\u6001",
-    "we_care_top_bar_title": "\u6211\u4eec\u5173\u5fc3\u60a8"
+    "we_care_top_bar_title": "\u6211\u4eec\u5173\u5fc3\u60a8",
+    "are_you_sure": "\u4f60\u786e\u5b9a\u5417\uff1f",
+    "use_this_method": "\u4f7f\u7528\u6b64\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u6570\u636e",
+    "skip_login": "\u8df3\u8fc7\u767b\u5f55\u5e76\u7ee7\u7eed",
+    "last_period_question": "\u4f60\u4e0a\u6b21\u6708\u7ecf\u7684\u5f00\u59cb\u65e5\u671f\u662f\u4ec0\u4e48\uff1f"
   },
   "Portuguese": {
     "sync_now": "Sincronizar agora",
@@ -33,7 +45,11 @@
     "text_cycle_summary": "Resumo do Ciclo",
     "text_cycle_history": "Hist\u00f3rico do Ciclo",
     "text_cycle_status": "Status do Ciclo",
-    "we_care_top_bar_title": "N\u00f3s Cuidamos"
+    "we_care_top_bar_title": "N\u00f3s Cuidamos",
+    "are_you_sure": "Tem certeza?",
+    "use_this_method": "Use este m\u00e9todo para fazer backup dos seus dados",
+    "skip_login": "Pular login e continuar",
+    "last_period_question": "Qual foi a data de in\u00edcio do seu \u00faltimo per\u00edodo?"
   },
   "Russian": {
     "sync_now": "\u0421\u0438\u043d\u0445\u0440\u043e\u043d\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0441\u0435\u0439\u0447\u0430\u0441",
@@ -42,7 +58,11 @@
     "text_cycle_summary": "\u0421\u0432\u043e\u0434\u043a\u0430 \u043f\u043e \u0446\u0438\u043a\u043b\u0443",
     "text_cycle_history": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0446\u0438\u043a\u043b\u0430",
     "text_cycle_status": "\u0421\u0442\u0430\u0442\u0443\u0441 \u0446\u0438\u043a\u043b\u0430",
-    "we_care_top_bar_title": "\u041c\u044b \u0437\u0430\u0431\u043e\u0442\u0438\u043c\u0441\u044f"
+    "we_care_top_bar_title": "\u041c\u044b \u0437\u0430\u0431\u043e\u0442\u0438\u043c\u0441\u044f",
+    "are_you_sure": "\u0412\u044b \u0443\u0432\u0435\u0440\u0435\u043d\u044b?",
+    "use_this_method": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u044d\u0442\u043e\u0442 \u043c\u0435\u0442\u043e\u0434 \u0434\u043b\u044f \u0440\u0435\u0437\u0435\u0440\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0434\u0430\u043d\u043d\u044b\u0445",
+    "skip_login": "\u041f\u0440\u043e\u043f\u0443\u0441\u0442\u0438\u0442\u044c \u0432\u0445\u043e\u0434 \u0438 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c",
+    "last_period_question": "\u041a\u0430\u043a\u043e\u0432\u0430 \u0434\u0430\u0442\u0430 \u043d\u0430\u0447\u0430\u043b\u0430 \u0432\u0430\u0448\u0438\u0445 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0445 \u043c\u0435\u0441\u044f\u0447\u043d\u044b\u0445?"
   },
   "Japanese": {
     "sync_now": "\u4eca\u3059\u3050\u540c\u671f",
@@ -51,7 +71,11 @@
     "text_cycle_summary": "\u30b5\u30a4\u30af\u30eb\u30b5\u30de\u30ea\u30fc",
     "text_cycle_history": "\u30b5\u30a4\u30af\u30eb\u30d2\u30b9\u30c8\u30ea\u30fc",
     "text_cycle_status": "\u30b5\u30a4\u30af\u30eb\u30b9\u30c6\u30fc\u30bf\u30b9",
-    "we_care_top_bar_title": "\u30a6\u30a3\u30b1\u30a2"
+    "we_care_top_bar_title": "\u30a6\u30a3\u30b1\u30a2",
+    "are_you_sure": "\u672c\u5f53\u306b\u5927\u4e08\u592b\u3067\u3059\u304b\uff1f",
+    "use_this_method": "\u3053\u306e\u65b9\u6cd5\u3092\u4f7f\u3063\u3066\u30c7\u30fc\u30bf\u3092\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u3057\u307e\u3057\u3087\u3046",
+    "skip_login": "\u30ed\u30b0\u30a4\u30f3\u3092\u30b9\u30ad\u30c3\u30d7\u3057\u3066\u7d9a\u884c\u3059\u308b",
+    "last_period_question": "\u524d\u56de\u306e\u751f\u7406\u306e\u958b\u59cb\u65e5\u3092\u6559\u3048\u3066\u304f\u3060\u3055\u3044"
   },
   "Korean": {
     "sync_now": "\uc9c0\uae08 \ub3d9\uae30\ud654",
@@ -60,7 +84,11 @@
     "text_cycle_summary": "\uc0dd\ub9ac \uc8fc\uae30 \uc694\uc57d",
     "text_cycle_history": "\uc0dd\ub9ac \uc8fc\uae30 \uae30\ub85d",
     "text_cycle_status": "\uc0dd\ub9ac \uc8fc\uae30 \uc0c1\ud0dc",
-    "we_care_top_bar_title": "\uc6b0\ub9ac\ub294 \ub2f9\uc2e0\uc744 \ub3cc\ubd05\ub2c8\ub2e4"
+    "we_care_top_bar_title": "\uc6b0\ub9ac\ub294 \ub2f9\uc2e0\uc744 \ub3cc\ubd05\ub2c8\ub2e4",
+    "are_you_sure": "\ud655\uc2e4\ud558\uc2e0\uac00\uc694?",
+    "use_this_method": "\uc774 \ubc29\ubc95\uc73c\ub85c \ub370\uc774\ud130\ub97c \ubc31\uc5c5\ud558\uc138\uc694",
+    "skip_login": "\ub85c\uadf8\uc778 \uac74\ub108\ub6f0\uace0 \uacc4\uc18d\ud558\uae30",
+    "last_period_question": "\ub9c8\uc9c0\ub9c9 \uc0dd\ub9ac \uc2dc\uc791\uc77c\uc740 \uc5b8\uc81c\uc778\uac00\uc694?"
   },
   "Indonesian (Bahasa Indonesia)": {
     "sync_now": "Sinkronkan Sekarang",
@@ -69,7 +97,11 @@
     "text_cycle_summary": "Ringkasan Siklus",
     "text_cycle_history": "Riwayat Siklus",
     "text_cycle_status": "Status Siklus",
-    "we_care_top_bar_title": "Kami Peduli"
+    "we_care_top_bar_title": "Kami Peduli",
+    "are_you_sure": "Apa kamu yakin?",
+    "use_this_method": "Gunakan metode ini untuk mencadangkan datamu",
+    "skip_login": "Lewati login dan lanjutkan",
+    "last_period_question": "Kapan tanggal mulai haid terakhirmu?"
   },
   "Turkish": {
     "sync_now": "\u015eimdi Senkronize Et",
@@ -78,7 +110,11 @@
     "text_cycle_summary": "D\u00f6ng\u00fc \u00d6zeti",
     "text_cycle_history": "D\u00f6ng\u00fc Ge\u00e7mi\u015fi",
     "text_cycle_status": "D\u00f6ng\u00fc Durumu",
-    "we_care_top_bar_title": "Sizin \u0130\u00e7in Buraday\u0131z"
+    "we_care_top_bar_title": "Sizin \u0130\u00e7in Buraday\u0131z",
+    "are_you_sure": "Emin misiniz?",
+    "use_this_method": "Verilerinizi yedeklemek i\u00e7in bu y\u00f6ntemi kullan\u0131n",
+    "skip_login": "Giri\u015f yapmadan devam et",
+    "last_period_question": "Son adetinizin ba\u015flang\u0131\u00e7 tarihi nedir?"
   },
   "Thai": {
     "sync_now": "\u0e0b\u0e34\u0e07\u0e04\u0e4c\u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e19\u0e35\u0e49",
@@ -87,7 +123,11 @@
     "text_cycle_summary": "\u0e2a\u0e23\u0e38\u0e1b\u0e44\u0e0b\u0e40\u0e04\u0e34\u0e25",
     "text_cycle_history": "\u0e1b\u0e23\u0e30\u0e27\u0e31\u0e15\u0e34\u0e44\u0e0b\u0e40\u0e04\u0e34\u0e25",
     "text_cycle_status": "\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e44\u0e0b\u0e40\u0e04\u0e34\u0e25",
-    "we_care_top_bar_title": "\u0e40\u0e23\u0e32\u0e2b\u0e48\u0e27\u0e07\u0e43\u0e22\u0e04\u0e38\u0e13"
+    "we_care_top_bar_title": "\u0e40\u0e23\u0e32\u0e2b\u0e48\u0e27\u0e07\u0e43\u0e22\u0e04\u0e38\u0e13",
+    "are_you_sure": "\u0e04\u0e38\u0e13\u0e41\u0e19\u0e48\u0e43\u0e08\u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e48?",
+    "use_this_method": "\u0e43\u0e0a\u0e49\u0e27\u0e34\u0e18\u0e35\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e33\u0e23\u0e2d\u0e07\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13",
+    "skip_login": "\u0e02\u0e49\u0e32\u0e21\u0e01\u0e32\u0e23\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e23\u0e30\u0e1a\u0e1a\u0e41\u0e25\u0e30\u0e14\u0e33\u0e40\u0e19\u0e34\u0e19\u0e01\u0e32\u0e23\u0e15\u0e48\u0e2d",
+    "last_period_question": "\u0e27\u0e31\u0e19\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e04\u0e37\u0e2d\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48?"
   },
   "Vietnamese": {
     "sync_now": "\u0110\u1ed3ng b\u1ed9 ngay",
@@ -96,7 +136,11 @@
     "text_cycle_summary": "T\u00f3m t\u1eaft chu k\u1ef3",
     "text_cycle_history": "L\u1ecbch s\u1eed chu k\u1ef3",
     "text_cycle_status": "T\u00ecnh tr\u1ea1ng chu k\u1ef3",
-    "we_care_top_bar_title": "We Care"
+    "we_care_top_bar_title": "We Care",
+    "are_you_sure": "B\u1ea1n c\u00f3 ch\u1eafc kh\u00f4ng?",
+    "use_this_method": "D\u00f9ng ph\u01b0\u01a1ng ph\u00e1p n\u00e0y \u0111\u1ec3 sao l\u01b0u d\u1eef li\u1ec7u c\u1ee7a b\u1ea1n",
+    "skip_login": "B\u1ecf qua \u0111\u0103ng nh\u1eadp v\u00e0 ti\u1ebfp t\u1ee5c",
+    "last_period_question": "Ng\u00e0y b\u1eaft \u0111\u1ea7u k\u1ef3 kinh cu\u1ed1i c\u1ee7a b\u1ea1n l\u00e0 ng\u00e0y n\u00e0o?"
   },
   "French": {
     "sync_now": "Synchroniser maintenant",
@@ -105,7 +149,11 @@
     "text_cycle_summary": "R\u00e9sum\u00e9 du cycle",
     "text_cycle_history": "Historique du cycle",
     "text_cycle_status": "Statut du cycle",
-    "we_care_top_bar_title": "Nous nous soucions"
+    "we_care_top_bar_title": "Nous nous soucions",
+    "are_you_sure": "Tu es s\u00fbr(e) ?",
+    "use_this_method": "Utilisez cette m\u00e9thode pour sauvegarder vos donn\u00e9es",
+    "skip_login": "Passer la connexion et continuer",
+    "last_period_question": "Quelle est la date de d\u00e9but de vos derni\u00e8res r\u00e8gles ?"
   },
   "German": {
     "sync_now": "Jetzt synchronisieren",
@@ -114,7 +162,11 @@
     "text_cycle_summary": "Zyklus\u00fcbersicht",
     "text_cycle_history": "Zyklusverlauf",
     "text_cycle_status": "Zyklusstatus",
-    "we_care_top_bar_title": "Wir k\u00fcmmern uns"
+    "we_care_top_bar_title": "Wir k\u00fcmmern uns",
+    "are_you_sure": "Bist du sicher?",
+    "use_this_method": "Verwende diese Methode, um deine Daten zu sichern",
+    "skip_login": "Login \u00fcberspringen und fortfahren",
+    "last_period_question": "Wann war der Beginn deiner letzten Periode?"
   },
   "Italian": {
     "sync_now": "Sincronizza ora",
@@ -123,7 +175,11 @@
     "text_cycle_summary": "Riepilogo del ciclo",
     "text_cycle_history": "Storia del ciclo",
     "text_cycle_status": "Stato del ciclo",
-    "we_care_top_bar_title": "Ci teniamo"
+    "we_care_top_bar_title": "Ci teniamo",
+    "are_you_sure": "Sei sicura?",
+    "use_this_method": "Usa questo metodo per fare il backup dei tuoi dati",
+    "skip_login": "Salta il login e continua",
+    "last_period_question": "Qual \u00e8 la data di inizio del tuo ultimo ciclo?"
   },
   "Polish": {
     "sync_now": "Synchronizuj teraz",
@@ -132,7 +188,11 @@
     "text_cycle_summary": "Podsumowanie cyklu",
     "text_cycle_history": "Historia cyklu",
     "text_cycle_status": "Status cyklu",
-    "we_care_top_bar_title": "Dbamy o Ciebie"
+    "we_care_top_bar_title": "Dbamy o Ciebie",
+    "are_you_sure": "Czy jeste\u015b pewny?",
+    "use_this_method": "U\u017cyj tej metody, aby wykona\u0107 kopi\u0119 zapasow\u0105 danych",
+    "skip_login": "Pomi\u0144 logowanie i kontynuuj",
+    "last_period_question": "Jaka jest data rozpocz\u0119cia Twojego ostatniego okresu?"
   },
   "Bengali": {
     "sync_now": "\u09a4\u09ce\u0995\u09cd\u09b7\u09a3\u09be\u09ce \u09b8\u09bf\u0999\u09cd\u0995 \u0995\u09b0\u09c1\u09a8",
@@ -141,7 +201,11 @@
     "text_cycle_summary": "\u09b8\u09be\u0987\u0995\u09c7\u09b2 \u09b8\u09be\u09b0\u09be\u0982\u09b6",
     "text_cycle_history": "\u09b8\u09be\u0987\u0995\u09c7\u09b2 \u0987\u09a4\u09bf\u09b9\u09be\u09b8",
     "text_cycle_status": "\u09b8\u09be\u0987\u0995\u09c7\u09b2 \u09b8\u09cd\u099f\u09cd\u09af\u09be\u099f\u09be\u09b8",
-    "we_care_top_bar_title": "\u0986\u09ae\u09b0\u09be \u09af\u09a4\u09cd\u09a8 \u09a8\u09bf\u0987"
+    "we_care_top_bar_title": "\u0986\u09ae\u09b0\u09be \u09af\u09a4\u09cd\u09a8 \u09a8\u09bf\u0987",
+    "are_you_sure": "\u0986\u09aa\u09a8\u09bf \u0995\u09bf \u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09a4?",
+    "use_this_method": "\u0986\u09aa\u09a8\u09be\u09b0 \u09a1\u09c7\u099f\u09be \u09ac\u09cd\u09af\u09be\u0995\u0986\u09aa \u0995\u09b0\u09a4\u09c7 \u098f\u0987 \u09aa\u09a6\u09cd\u09a7\u09a4\u09bf \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09c1\u09a8",
+    "skip_login": "\u09b2\u0997\u0987\u09a8 \u098f\u09a1\u09bc\u09bf\u09af\u09bc\u09c7 \u09af\u09be\u09a8 \u098f\u09ac\u0982 \u099a\u09be\u09b2\u09bf\u09af\u09bc\u09c7 \u09af\u09be\u09a8",
+    "last_period_question": "\u0986\u09aa\u09a8\u09be\u09b0 \u09b6\u09c7\u09b7 \u09aa\u09bf\u09b0\u09bf\u09df\u09a1\u09c7\u09b0 \u09b6\u09c1\u09b0\u09c1\u09b0 \u09a4\u09be\u09b0\u09bf\u0996 \u0995\u09c0?"
   },
   "Ukrainian": {
     "sync_now": "\u0421\u0438\u043d\u0445\u0440\u043e\u043d\u0456\u0437\u0443\u0432\u0430\u0442\u0438 \u0437\u0430\u0440\u0430\u0437",
@@ -150,7 +214,11 @@
     "text_cycle_summary": "\u041f\u0456\u0434\u0441\u0443\u043c\u043e\u043a \u0446\u0438\u043a\u043b\u0443",
     "text_cycle_history": "\u0406\u0441\u0442\u043e\u0440\u0456\u044f \u0446\u0438\u043a\u043b\u0443",
     "text_cycle_status": "\u0421\u0442\u0430\u0442\u0443\u0441 \u0446\u0438\u043a\u043b\u0443",
-    "we_care_top_bar_title": "\u041c\u0438 \u0434\u0431\u0430\u0454\u043c\u043e"
+    "we_care_top_bar_title": "\u041c\u0438 \u0434\u0431\u0430\u0454\u043c\u043e",
+    "are_you_sure": "\u0412\u0438 \u0432\u043f\u0435\u0432\u043d\u0435\u043d\u0456?",
+    "use_this_method": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0439\u0442\u0435 \u0446\u0435\u0439 \u043c\u0435\u0442\u043e\u0434 \u0434\u043b\u044f \u0440\u0435\u0437\u0435\u0440\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u043f\u0456\u044e\u0432\u0430\u043d\u043d\u044f \u0434\u0430\u043d\u0438\u0445",
+    "skip_login": "\u041f\u0440\u043e\u043f\u0443\u0441\u0442\u0438\u0442\u0438 \u0432\u0445\u0456\u0434 \u0456 \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0438\u0442\u0438",
+    "last_period_question": "\u042f\u043a\u0430 \u0434\u0430\u0442\u0430 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u0432\u0430\u0448\u0438\u0445 \u043e\u0441\u0442\u0430\u043d\u043d\u0456\u0445 \u043c\u0456\u0441\u044f\u0447\u043d\u0438\u0445?"
   },
   "Nepali (Nepal)": {
     "sync_now": "\u0905\u0939\u093f\u0932\u0947 \u0928\u0948 \u0938\u093f\u0902\u0915 \u0917\u0930\u094d\u0928\u0941\u0939\u094b\u0938\u094d",
@@ -159,7 +227,11 @@
     "text_cycle_summary": "\u0938\u093e\u0907\u0915\u0932\u0915\u094b \u0938\u093e\u0930\u093e\u0902\u0936",
     "text_cycle_history": "\u0938\u093e\u0907\u0915\u0932\u0915\u094b \u0907\u0924\u093f\u0939\u093e\u0938",
     "text_cycle_status": "\u0938\u093e\u0907\u0915\u0932\u0915\u094b \u0938\u094d\u0925\u093f\u0924\u093f",
-    "we_care_top_bar_title": "\u0939\u093e\u092e\u0940 \u0916\u094d\u092f\u093e\u0932 \u0917\u0930\u094d\u091b\u094c\u0901"
+    "we_care_top_bar_title": "\u0939\u093e\u092e\u0940 \u0916\u094d\u092f\u093e\u0932 \u0917\u0930\u094d\u091b\u094c\u0901",
+    "are_you_sure": "\u0915\u0947 \u0924\u092a\u093e\u0908\u0902 \u092a\u0915\u094d\u0915\u093e \u0939\u0941\u0928\u0941\u0939\u0941\u0928\u094d\u091b?",
+    "use_this_method": "\u092f\u094b \u0924\u0930\u093f\u0915\u093e \u092a\u094d\u0930\u092f\u094b\u0917 \u0917\u0930\u0947\u0930 \u0906\u092b\u094d\u0928\u094b \u0921\u0947\u091f\u093e \u092c\u094d\u092f\u093e\u0915\u0905\u092a \u0917\u0930\u094d\u0928\u0941\u0939\u094b\u0938\u094d",
+    "skip_login": "\u0932\u0917\u0907\u0928 \u0928\u0917\u0930\u0940\u0915\u0928 \u091c\u093e\u0930\u0940 \u0930\u093e\u0916\u094d\u0928\u0941\u0939\u094b\u0938\u094d",
+    "last_period_question": "\u0924\u092a\u093e\u0908\u0902\u0915\u094b \u0905\u0928\u094d\u0924\u093f\u092e \u0905\u0935\u0927\u093f \u0915\u0939\u093f\u0932\u0947 \u0938\u0941\u0930\u0941 \u092d\u090f\u0915\u094b \u0939\u094b?"
   },
   "Yoruba (Nigeria)": {
     "sync_now": "\u1e62op\u1ecd Bayi",
@@ -173,6 +245,10 @@
     "text_cycle_summary": "Isifinyezo Somjikelezo",
     "text_cycle_history": "Umlando Wejikelezo",
     "text_cycle_status": "Isimo Sojikelezo",
-    "we_care_top_bar_title": "Siyakunakekela"
+    "we_care_top_bar_title": "Siyakunakekela",
+    "are_you_sure": "Uqinisekile?",
+    "use_this_method": "Sebenzisa le ndlela ukwenza i-backup kwedatha yakho",
+    "skip_login": "Dlula kokungena futhi uqhubeke",
+    "last_period_question": "Kuyiphi usuku lokuqala lwesikhathi sakho sokugcina?"
   }
 }
