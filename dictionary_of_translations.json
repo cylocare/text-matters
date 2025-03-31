@@ -74,7 +74,9 @@
     "powered_with": "\u0938\u0915\u094d\u0937\u092e \u0915\u093f\u092f\u093e \u0917\u092f\u093e",
     "view_all_insights": "\u0938\u092d\u0940 \u0907\u0928\u0938\u093e\u0907\u091f\u094d\u0938 \u0926\u0947\u0916\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f",
     "unlock_with_ad": "\u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u0938\u0947 \u0905\u0928\u0932\u0949\u0915 \u0915\u0930\u0947\u0902",
-    "locked": "\u0932\u0949\u0915\u094d\u0921"
+    "locked": "\u0932\u0949\u0915\u094d\u0921",
+    "label_times_new": "%1$d \u092c\u093e\u0930",
+    "sexual_activity_prefix_new": "\u091a\u0941\u0928\u0947 \u0939\u0941\u090f \u0938\u092e\u092f \u092e\u0947\u0902 %1$s \u0932\u0949\u0917 \u0915\u093f\u092f\u093e \u0917\u092f\u093e\u0964"
   },
   "Spanish": {
     "sync_now": "Sincronizar ahora",
@@ -151,7 +153,9 @@
     "powered_with": "Desarrollado con",
     "view_all_insights": "Para ver todos los insights",
     "unlock_with_ad": "Desbloquear con un anuncio",
-    "locked": "Bloqueado"
+    "locked": "Bloqueado",
+    "label_times_new": "%1$d veces",
+    "sexual_activity_prefix_new": "%1$s se registr\u00f3 durante el per\u00edodo seleccionado."
   },
   "Mandarin Chinese": {
     "sync_now": "\u7acb\u5373\u540c\u6b65",
@@ -228,7 +232,9 @@
     "powered_with": "\u652f\u6301\u8005",
     "view_all_insights": "\u67e5\u770b\u6240\u6709\u89c1\u89e3",
     "unlock_with_ad": "\u901a\u8fc7\u5e7f\u544a\u89e3\u9501",
-    "locked": "\u5df2\u9501\u5b9a"
+    "locked": "\u5df2\u9501\u5b9a",
+    "label_times_new": "%1$d \u6b21",
+    "sexual_activity_prefix_new": "\u5728\u9009\u62e9\u7684\u65f6\u95f4\u6bb5\u5185\u8bb0\u5f55\u4e86 %1$s\u3002"
   },
   "Portuguese": {
     "sync_now": "Sincronizar agora",
@@ -305,7 +311,9 @@
     "powered_with": "Fornecido por",
     "view_all_insights": "Para ver todos os insights",
     "unlock_with_ad": "Desbloquear com an\u00fancio",
-    "locked": "Bloqueado"
+    "locked": "Bloqueado",
+    "label_times_new": "%1$d vezes",
+    "sexual_activity_prefix_new": "%1$s foi registrado durante o per\u00edodo selecionado."
   },
   "Russian": {
     "sync_now": "\u0421\u0438\u043d\u0445\u0440\u043e\u043d\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0441\u0435\u0439\u0447\u0430\u0441",
@@ -382,7 +390,9 @@
     "powered_with": "\u0420\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435",
     "view_all_insights": "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u0441\u044e \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0443",
     "unlock_with_ad": "\u0420\u0430\u0437\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0440\u0435\u043a\u043b\u0430\u043c\u044b",
-    "locked": "\u0417\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u043e"
+    "locked": "\u0417\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u043e",
+    "label_times_new": "%1$d \u0440\u0430\u0437",
+    "sexual_activity_prefix_new": "%1$s \u0431\u044b\u043b(\u0430) \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d(\u0430) \u0432 \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0439 \u043f\u0435\u0440\u0438\u043e\u0434 \u0432\u0440\u0435\u043c\u0435\u043d\u0438."
   },
   "Japanese": {
     "sync_now": "\u4eca\u3059\u3050\u540c\u671f",
@@ -459,7 +469,9 @@
     "powered_with": "\u642d\u8f09",
     "view_all_insights": "\u3059\u3079\u3066\u306e\u30a4\u30f3\u30b5\u30a4\u30c8\u3092\u898b\u308b\u306b\u306f",
     "unlock_with_ad": "\u5e83\u544a\u3067\u89e3\u9664",
-    "locked": "\u30ed\u30c3\u30af\u3055\u308c\u3066\u3044\u307e\u3059"
+    "locked": "\u30ed\u30c3\u30af\u3055\u308c\u3066\u3044\u307e\u3059",
+    "label_times_new": "%1$d \u56de",
+    "sexual_activity_prefix_new": "\u9078\u629e\u3057\u305f\u6642\u9593\u5185\u306b%1$s\u304c\u8a18\u9332\u3055\u308c\u307e\u3057\u305f\u3002"
   },
   "Korean": {
     "sync_now": "\uc9c0\uae08 \ub3d9\uae30\ud654",
@@ -536,7 +548,9 @@
     "powered_with": "\uad6c\ub3d9",
     "view_all_insights": "\ubaa8\ub4e0 \uc778\uc0ac\uc774\ud2b8 \ubcf4\uae30",
     "unlock_with_ad": "\uad11\uace0\ub85c \uc7a0\uae08 \ud574\uc81c",
-    "locked": "\uc7a0\uae40"
+    "locked": "\uc7a0\uae40",
+    "label_times_new": "%1$d\ubc88",
+    "sexual_activity_prefix_new": "\uc120\ud0dd\ud55c \uae30\uac04 \ub3d9\uc548 %1$s\uac00 \uae30\ub85d\ub418\uc5c8\uc2b5\ub2c8\ub2e4."
   },
   "Indonesian (Bahasa Indonesia)": {
     "sync_now": "Sinkronkan Sekarang",
@@ -613,7 +627,9 @@
     "powered_with": "Didukung dengan",
     "view_all_insights": "Untuk melihat semua wawasan",
     "unlock_with_ad": "Buka kunci dengan iklan",
-    "locked": "Terkunci"
+    "locked": "Terkunci",
+    "label_times_new": "%1$d kali",
+    "sexual_activity_prefix_new": "%1$s dicatat selama periode waktu yang dipilih."
   },
   "Turkish": {
     "sync_now": "\u015eimdi Senkronize Et",
@@ -690,7 +706,9 @@
     "powered_with": "Destekleyen",
     "view_all_insights": "T\u00fcm \u00f6ng\u00f6r\u00fcleri g\u00f6r\u00fcnt\u00fclemek i\u00e7in",
     "unlock_with_ad": "Bir reklamla kilidini a\u00e7",
-    "locked": "Kilitli"
+    "locked": "Kilitli",
+    "label_times_new": "%1$d kez",
+    "sexual_activity_prefix_new": "Se\u00e7ilen zaman diliminde %1$s kaydedildi."
   },
   "Thai": {
     "sync_now": "\u0e0b\u0e34\u0e07\u0e04\u0e4c\u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e19\u0e35\u0e49",
@@ -767,7 +785,9 @@
     "powered_with": "\u0e1e\u0e25\u0e31\u0e07\u0e08\u0e32\u0e01",
     "view_all_insights": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e14\u0e39\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e0a\u0e34\u0e07\u0e25\u0e36\u0e01\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14",
     "unlock_with_ad": "\u0e1b\u0e25\u0e14\u0e25\u0e47\u0e2d\u0e01\u0e14\u0e49\u0e27\u0e22\u0e42\u0e06\u0e29\u0e13\u0e32",
-    "locked": "\u0e25\u0e47\u0e2d\u0e04"
+    "locked": "\u0e25\u0e47\u0e2d\u0e04",
+    "label_times_new": "%1$d \u0e04\u0e23\u0e31\u0e49\u0e07",
+    "sexual_activity_prefix_new": "\u0e21\u0e35\u0e01\u0e32\u0e23\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01 %1$s \u0e43\u0e19\u0e0a\u0e48\u0e27\u0e07\u0e40\u0e27\u0e25\u0e32\u0e17\u0e35\u0e48\u0e40\u0e25\u0e37\u0e2d\u0e01"
   },
   "Vietnamese": {
     "sync_now": "\u0110\u1ed3ng b\u1ed9 ngay",
@@ -844,7 +864,9 @@
     "powered_with": "Ho\u1ea1t \u0111\u1ed9ng v\u1edbi",
     "view_all_insights": "\u0110\u1ec3 xem t\u1ea5t c\u1ea3 th\u00f4ng tin chi ti\u1ebft",
     "unlock_with_ad": "M\u1edf kh\u00f3a v\u1edbi qu\u1ea3ng c\u00e1o",
-    "locked": "\u0110\u00e3 kh\u00f3a"
+    "locked": "\u0110\u00e3 kh\u00f3a",
+    "label_times_new": "%1$d l\u1ea7n",
+    "sexual_activity_prefix_new": "%1$s \u0111\u00e3 \u0111\u01b0\u1ee3c ghi l\u1ea1i trong kho\u1ea3ng th\u1eddi gian \u0111\u00e3 ch\u1ecdn."
   },
   "French": {
     "sync_now": "Synchroniser maintenant",
@@ -921,7 +943,9 @@
     "powered_with": "Propuls\u00e9 avec",
     "view_all_insights": "Voir tous les aper\u00e7us",
     "unlock_with_ad": "D\u00e9verrouiller avec une annonce",
-    "locked": "Verrouill\u00e9"
+    "locked": "Verrouill\u00e9",
+    "label_times_new": "%1$d fois",
+    "sexual_activity_prefix_new": "%1$s a \u00e9t\u00e9 enregistr\u00e9 pendant la p\u00e9riode s\u00e9lectionn\u00e9e."
   },
   "German": {
     "sync_now": "Jetzt synchronisieren",
@@ -998,7 +1022,9 @@
     "powered_with": "Angetrieben mit",
     "view_all_insights": "Um alle Einblicke zu sehen",
     "unlock_with_ad": "Mit einer Anzeige entsperren",
-    "locked": "Gesperrt"
+    "locked": "Gesperrt",
+    "label_times_new": "%1$d Mal",
+    "sexual_activity_prefix_new": "%1$s wurde im ausgew\u00e4hlten Zeitraum protokolliert."
   },
   "Italian": {
     "sync_now": "Sincronizza ora",
@@ -1075,7 +1101,9 @@
     "powered_with": "Supportato con",
     "view_all_insights": "Per visualizzare tutti gli approfondimenti",
     "unlock_with_ad": "Sblocca con un annuncio",
-    "locked": "Bloccato"
+    "locked": "Bloccato",
+    "label_times_new": "%1$d volte",
+    "sexual_activity_prefix_new": "%1$s \u00e8 stato registrato durante il periodo selezionato."
   },
   "Polish": {
     "sync_now": "Synchronizuj teraz",
@@ -1152,7 +1180,9 @@
     "powered_with": "Zasilane przez",
     "view_all_insights": "Aby zobaczy\u0107 wszystkie spostrze\u017cenia",
     "unlock_with_ad": "Odblokuj za pomoc\u0105 reklamy",
-    "locked": "Zablokowane"
+    "locked": "Zablokowane",
+    "label_times_new": "%1$d razy",
+    "sexual_activity_prefix_new": "%1$s zosta\u0142 zapisany w wybranym okresie czasu."
   },
   "Bengali": {
     "sync_now": "\u09a4\u09ce\u0995\u09cd\u09b7\u09a3\u09be\u09ce \u09b8\u09bf\u0999\u09cd\u0995 \u0995\u09b0\u09c1\u09a8",
@@ -1229,7 +1259,9 @@
     "powered_with": "\u09b8\u0995\u09cd\u09b7\u09ae \u09b9\u09af\u09bc\u09c7\u099b\u09c7",
     "view_all_insights": "\u09b8\u09ae\u09b8\u09cd\u09a4 \u0985\u09a8\u09cd\u09a4\u09b0\u09cd\u09a6\u09c3\u09b7\u09cd\u099f\u09bf \u09a6\u09c7\u0996\u09a4\u09c7",
     "unlock_with_ad": "\u09ac\u09bf\u099c\u09cd\u099e\u09be\u09aa\u09a8 \u09a6\u09bf\u09af\u09bc\u09c7 \u0986\u09a8\u09b2\u0995 \u0995\u09b0\u09c1\u09a8",
-    "locked": "\u09b2\u0995 \u0995\u09b0\u09be \u09b9\u09af\u09bc\u09c7\u099b\u09c7"
+    "locked": "\u09b2\u0995 \u0995\u09b0\u09be \u09b9\u09af\u09bc\u09c7\u099b\u09c7",
+    "label_times_new": "%1$d \u09ac\u09be\u09b0",
+    "sexual_activity_prefix_new": "\u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09bf\u09a4 \u09b8\u09ae\u09af\u09bc\u0995\u09be\u09b2\u09c7 %1$s \u09b2\u0997 \u0995\u09b0\u09be \u09b9\u09af\u09bc\u09c7\u099b\u09c7\u0964"
   },
   "Ukrainian": {
     "sync_now": "\u0421\u0438\u043d\u0445\u0440\u043e\u043d\u0456\u0437\u0443\u0432\u0430\u0442\u0438 \u0437\u0430\u0440\u0430\u0437",
@@ -1306,7 +1338,9 @@
     "powered_with": "\u041f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454\u0442\u044c\u0441\u044f",
     "view_all_insights": "\u041f\u0435\u0440\u0435\u0433\u043b\u044f\u043d\u0443\u0442\u0438 \u0432\u0441\u0456 \u0456\u043d\u0441\u0430\u0439\u0442\u0438",
     "unlock_with_ad": "\u0420\u043e\u0437\u0431\u043b\u043e\u043a\u0443\u0432\u0430\u0442\u0438 \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u0440\u0435\u043a\u043b\u0430\u043c\u0438",
-    "locked": "\u0417\u0430\u0431\u043b\u043e\u043a\u043e\u0432\u0430\u043d\u043e"
+    "locked": "\u0417\u0430\u0431\u043b\u043e\u043a\u043e\u0432\u0430\u043d\u043e",
+    "label_times_new": "%1$d \u0440\u0430\u0437\u0456\u0432",
+    "sexual_activity_prefix_new": "%1$s \u0431\u0443\u043b\u043e \u0437\u0430\u0444\u0456\u043a\u0441\u043e\u0432\u0430\u043d\u043e \u043f\u0456\u0434 \u0447\u0430\u0441 \u043e\u0431\u0440\u0430\u043d\u043e\u0433\u043e \u043f\u0435\u0440\u0456\u043e\u0434\u0443."
   },
   "Nepali (Nepal)": {
     "sync_now": "\u0905\u0939\u093f\u0932\u0947 \u0928\u0948 \u0938\u093f\u0902\u0915 \u0917\u0930\u094d\u0928\u0941\u0939\u094b\u0938\u094d",
@@ -1383,7 +1417,9 @@
     "powered_with": "\u0926\u094d\u0935\u093e\u0930\u093e \u0938\u092e\u0930\u094d\u0925\u093f\u0924",
     "view_all_insights": "\u0938\u092c\u0948 \u0907\u0928\u0938\u093e\u0907\u091f\u094d\u0938 \u0939\u0947\u0930\u094d\u0928\u0941\u0939\u094b\u0938\u094d",
     "unlock_with_ad": "\u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928\u0926\u094d\u0935\u093e\u0930\u093e \u0905\u0928\u0932\u0915 \u0917\u0930\u094d\u0928\u0941\u0939\u094b\u0938\u094d",
-    "locked": "\u0932\u0915 \u0917\u0930\u093f\u090f\u0915\u094b"
+    "locked": "\u0932\u0915 \u0917\u0930\u093f\u090f\u0915\u094b",
+    "label_times_new": "%1$d \u092a\u091f\u0915",
+    "sexual_activity_prefix_new": "%1$s \u091a\u092f\u0928 \u0917\u0930\u0947\u0915\u094b \u0938\u092e\u092f\u092e\u093e \u0930\u0947\u0915\u0930\u094d\u0921 \u0917\u0930\u093f\u092f\u094b\u0964"
   },
   "Yoruba (Nigeria)": {
     "sync_now": "\u1e62op\u1ecd Bayi",
@@ -1465,6 +1501,8 @@
     "powered_with": "Iqhutshwa nge",
     "view_all_insights": "Ukuze ubone konke ukuqonda",
     "unlock_with_ad": "Vula ngesikhangiso",
-    "locked": "Kuvaliwe"
+    "locked": "Kuvaliwe",
+    "label_times_new": "%1$d izikhathi",
+    "sexual_activity_prefix_new": "Ukusebenza kwezocansi kuka-%1$s kwabhalwa ngalesi sikhathi esikhethiwe."
   }
 }
