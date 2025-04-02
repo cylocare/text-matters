@@ -77,7 +77,10 @@
     "locked": "\u0932\u0949\u0915\u094d\u0921",
     "label_times_new": "%1$d \u092c\u093e\u0930",
     "sexual_activity_prefix_new": "\u091a\u0941\u0928\u0947 \u0939\u0941\u090f \u0938\u092e\u092f \u092e\u0947\u0902 %1$s \u0932\u0949\u0917 \u0915\u093f\u092f\u093e \u0917\u092f\u093e\u0964",
-    "delete_account_warning": "\u0905\u092a\u0928\u093e \u0905\u0915\u093e\u0909\u0902\u091f \u0921\u093f\u0932\u0940\u091f \u0915\u0930\u0928\u0947 \u0938\u0947 \u0906\u092a\u0915\u093e \u0938\u093e\u0930\u093e \u0921\u0947\u091f\u093e \u092e\u093f\u091f \u091c\u093e\u090f\u0917\u093e\u0964"
+    "delete_account_warning": "\u0905\u092a\u0928\u093e \u0905\u0915\u093e\u0909\u0902\u091f \u0921\u093f\u0932\u0940\u091f \u0915\u0930\u0928\u0947 \u0938\u0947 \u0906\u092a\u0915\u093e \u0938\u093e\u0930\u093e \u0921\u0947\u091f\u093e \u092e\u093f\u091f \u091c\u093e\u090f\u0917\u093e\u0964",
+    "label_hours": "\u0918\u0902\u091f\u0947",
+    "label_minutes": "\u092e\u093f\u0928\u091f",
+    "label_seconds": "\u0938\u0947\u0915\u0902\u0921"
   },
   "Spanish": {
     "sync_now": "Sincronizar ahora",
@@ -157,7 +160,10 @@
     "locked": "Bloqueado",
     "label_times_new": "%1$d veces",
     "sexual_activity_prefix_new": "%1$s se registr\u00f3 durante el per\u00edodo seleccionado.",
-    "delete_account_warning": "Eliminar tu cuenta borrar\u00e1 todos tus datos."
+    "delete_account_warning": "Eliminar tu cuenta borrar\u00e1 todos tus datos.",
+    "label_hours": "horas",
+    "label_minutes": "minutos",
+    "label_seconds": "segundos"
   },
   "Mandarin Chinese": {
     "sync_now": "\u7acb\u5373\u540c\u6b65",
@@ -237,7 +243,10 @@
     "locked": "\u5df2\u9501\u5b9a",
     "label_times_new": "%1$d \u6b21",
     "sexual_activity_prefix_new": "\u5728\u9009\u62e9\u7684\u65f6\u95f4\u6bb5\u5185\u8bb0\u5f55\u4e86 %1$s\u3002",
-    "delete_account_warning": "\u5220\u9664\u8d26\u6237\u4f1a\u6e05\u7a7a\u6240\u6709\u6570\u636e\u3002"
+    "delete_account_warning": "\u5220\u9664\u8d26\u6237\u4f1a\u6e05\u7a7a\u6240\u6709\u6570\u636e\u3002",
+    "label_hours": "\u5c0f\u65f6",
+    "label_minutes": "\u5206\u949f",
+    "label_seconds": "\u79d2"
   },
   "Portuguese": {
     "sync_now": "Sincronizar agora",
@@ -317,7 +326,10 @@
     "locked": "Bloqueado",
     "label_times_new": "%1$d vezes",
     "sexual_activity_prefix_new": "%1$s foi registrado durante o per\u00edodo selecionado.",
-    "delete_account_warning": "Excluir sua conta apagar\u00e1 todos os seus dados."
+    "delete_account_warning": "Excluir sua conta apagar\u00e1 todos os seus dados.",
+    "label_hours": "horas",
+    "label_minutes": "minutos",
+    "label_seconds": "segundos"
   },
   "Russian": {
     "sync_now": "\u0421\u0438\u043d\u0445\u0440\u043e\u043d\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0441\u0435\u0439\u0447\u0430\u0441",
@@ -397,7 +409,10 @@
     "locked": "\u0417\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u043e",
     "label_times_new": "%1$d \u0440\u0430\u0437",
     "sexual_activity_prefix_new": "%1$s \u0431\u044b\u043b(\u0430) \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d(\u0430) \u0432 \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0439 \u043f\u0435\u0440\u0438\u043e\u0434 \u0432\u0440\u0435\u043c\u0435\u043d\u0438.",
-    "delete_account_warning": "\u0423\u0434\u0430\u043b\u0435\u043d\u0438\u0435 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 \u0441\u043e\u0442\u0440\u0435\u0442 \u0432\u0441\u0435 \u0432\u0430\u0448\u0438 \u0434\u0430\u043d\u043d\u044b\u0435."
+    "delete_account_warning": "\u0423\u0434\u0430\u043b\u0435\u043d\u0438\u0435 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 \u0441\u043e\u0442\u0440\u0435\u0442 \u0432\u0441\u0435 \u0432\u0430\u0448\u0438 \u0434\u0430\u043d\u043d\u044b\u0435.",
+    "label_hours": "\u0447\u0430\u0441\u044b",
+    "label_minutes": "\u043c\u0438\u043d\u0443\u0442\u044b",
+    "label_seconds": "\u0441\u0435\u043a\u0443\u043d\u0434\u044b"
   },
   "Japanese": {
     "sync_now": "\u4eca\u3059\u3050\u540c\u671f",
@@ -477,7 +492,10 @@
     "locked": "\u30ed\u30c3\u30af\u3055\u308c\u3066\u3044\u307e\u3059",
     "label_times_new": "%1$d \u56de",
     "sexual_activity_prefix_new": "\u9078\u629e\u3057\u305f\u6642\u9593\u5185\u306b%1$s\u304c\u8a18\u9332\u3055\u308c\u307e\u3057\u305f\u3002",
-    "delete_account_warning": "\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u524a\u9664\u3059\u308b\u3068\u3001\u3059\u3079\u3066\u306e\u30c7\u30fc\u30bf\u304c\u6d88\u53bb\u3055\u308c\u307e\u3059\u3002"
+    "delete_account_warning": "\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u524a\u9664\u3059\u308b\u3068\u3001\u3059\u3079\u3066\u306e\u30c7\u30fc\u30bf\u304c\u6d88\u53bb\u3055\u308c\u307e\u3059\u3002",
+    "label_hours": "\u6642\u9593",
+    "label_minutes": "\u5206",
+    "label_seconds": "\u79d2"
   },
   "Korean": {
     "sync_now": "\uc9c0\uae08 \ub3d9\uae30\ud654",
@@ -557,7 +575,10 @@
     "locked": "\uc7a0\uae40",
     "label_times_new": "%1$d\ubc88",
     "sexual_activity_prefix_new": "\uc120\ud0dd\ud55c \uae30\uac04 \ub3d9\uc548 %1$s\uac00 \uae30\ub85d\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
-    "delete_account_warning": "\uacc4\uc815\uc744 \uc0ad\uc81c\ud558\uba74 \ubaa8\ub4e0 \ub370\uc774\ud130\uac00 \uc0ad\uc81c\ub429\ub2c8\ub2e4."
+    "delete_account_warning": "\uacc4\uc815\uc744 \uc0ad\uc81c\ud558\uba74 \ubaa8\ub4e0 \ub370\uc774\ud130\uac00 \uc0ad\uc81c\ub429\ub2c8\ub2e4.",
+    "label_hours": "\uc2dc\uac04",
+    "label_minutes": "\ubd84",
+    "label_seconds": "\ucd08"
   },
   "Indonesian (Bahasa Indonesia)": {
     "sync_now": "Sinkronkan Sekarang",
@@ -637,7 +658,10 @@
     "locked": "Terkunci",
     "label_times_new": "%1$d kali",
     "sexual_activity_prefix_new": "%1$s dicatat selama periode waktu yang dipilih.",
-    "delete_account_warning": "Menghapus akun Anda akan menghapus semua data Anda."
+    "delete_account_warning": "Menghapus akun Anda akan menghapus semua data Anda.",
+    "label_hours": "jam",
+    "label_minutes": "menit",
+    "label_seconds": "detik"
   },
   "Turkish": {
     "sync_now": "\u015eimdi Senkronize Et",
@@ -717,7 +741,10 @@
     "locked": "Kilitli",
     "label_times_new": "%1$d kez",
     "sexual_activity_prefix_new": "Se\u00e7ilen zaman diliminde %1$s kaydedildi.",
-    "delete_account_warning": "Hesab\u0131n\u0131z\u0131 silmek, t\u00fcm verilerinizi silecektir."
+    "delete_account_warning": "Hesab\u0131n\u0131z\u0131 silmek, t\u00fcm verilerinizi silecektir.",
+    "label_hours": "saatler",
+    "label_minutes": "dakikalar",
+    "label_seconds": "saniyeler"
   },
   "Thai": {
     "sync_now": "\u0e0b\u0e34\u0e07\u0e04\u0e4c\u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e19\u0e35\u0e49",
@@ -797,7 +824,10 @@
     "locked": "\u0e25\u0e47\u0e2d\u0e04",
     "label_times_new": "%1$d \u0e04\u0e23\u0e31\u0e49\u0e07",
     "sexual_activity_prefix_new": "\u0e21\u0e35\u0e01\u0e32\u0e23\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01 %1$s \u0e43\u0e19\u0e0a\u0e48\u0e27\u0e07\u0e40\u0e27\u0e25\u0e32\u0e17\u0e35\u0e48\u0e40\u0e25\u0e37\u0e2d\u0e01",
-    "delete_account_warning": "\u0e01\u0e32\u0e23\u0e25\u0e1a\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e08\u0e30\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e2b\u0e32\u0e22\u0e44\u0e1b"
+    "delete_account_warning": "\u0e01\u0e32\u0e23\u0e25\u0e1a\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e08\u0e30\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e2b\u0e32\u0e22\u0e44\u0e1b",
+    "label_hours": "\u0e0a\u0e31\u0e48\u0e27\u0e42\u0e21\u0e07",
+    "label_minutes": "\u0e19\u0e32\u0e17\u0e35",
+    "label_seconds": "\u0e27\u0e34\u0e19\u0e32\u0e17\u0e35"
   },
   "Vietnamese": {
     "sync_now": "\u0110\u1ed3ng b\u1ed9 ngay",
@@ -877,7 +907,10 @@
     "locked": "\u0110\u00e3 kh\u00f3a",
     "label_times_new": "%1$d l\u1ea7n",
     "sexual_activity_prefix_new": "%1$s \u0111\u00e3 \u0111\u01b0\u1ee3c ghi l\u1ea1i trong kho\u1ea3ng th\u1eddi gian \u0111\u00e3 ch\u1ecdn.",
-    "delete_account_warning": "X\u00f3a t\u00e0i kho\u1ea3n c\u1ee7a b\u1ea1n s\u1ebd x\u00f3a to\u00e0n b\u1ed9 d\u1eef li\u1ec7u c\u1ee7a b\u1ea1n."
+    "delete_account_warning": "X\u00f3a t\u00e0i kho\u1ea3n c\u1ee7a b\u1ea1n s\u1ebd x\u00f3a to\u00e0n b\u1ed9 d\u1eef li\u1ec7u c\u1ee7a b\u1ea1n.",
+    "label_hours": "gi\u1edd",
+    "label_minutes": "ph\u00fat",
+    "label_seconds": "gi\u00e2y"
   },
   "French": {
     "sync_now": "Synchroniser maintenant",
@@ -957,7 +990,10 @@
     "locked": "Verrouill\u00e9",
     "label_times_new": "%1$d fois",
     "sexual_activity_prefix_new": "%1$s a \u00e9t\u00e9 enregistr\u00e9 pendant la p\u00e9riode s\u00e9lectionn\u00e9e.",
-    "delete_account_warning": "Supprimer votre compte effacera toutes vos donn\u00e9es."
+    "delete_account_warning": "Supprimer votre compte effacera toutes vos donn\u00e9es.",
+    "label_hours": "heures",
+    "label_minutes": "minutes",
+    "label_seconds": "secondes"
   },
   "German": {
     "sync_now": "Jetzt synchronisieren",
@@ -1037,7 +1073,10 @@
     "locked": "Gesperrt",
     "label_times_new": "%1$d Mal",
     "sexual_activity_prefix_new": "%1$s wurde im ausgew\u00e4hlten Zeitraum protokolliert.",
-    "delete_account_warning": "Wenn Sie Ihr Konto l\u00f6schen, werden alle Ihre Daten entfernt."
+    "delete_account_warning": "Wenn Sie Ihr Konto l\u00f6schen, werden alle Ihre Daten entfernt.",
+    "label_hours": "Stunden",
+    "label_minutes": "Minuten",
+    "label_seconds": "Sekunden"
   },
   "Italian": {
     "sync_now": "Sincronizza ora",
@@ -1117,7 +1156,10 @@
     "locked": "Bloccato",
     "label_times_new": "%1$d volte",
     "sexual_activity_prefix_new": "%1$s \u00e8 stato registrato durante il periodo selezionato.",
-    "delete_account_warning": "Cancellare il tuo account canceller\u00e0 tutti i tuoi dati."
+    "delete_account_warning": "Cancellare il tuo account canceller\u00e0 tutti i tuoi dati.",
+    "label_hours": "ore",
+    "label_minutes": "minuti",
+    "label_seconds": "secondi"
   },
   "Polish": {
     "sync_now": "Synchronizuj teraz",
@@ -1197,7 +1239,10 @@
     "locked": "Zablokowane",
     "label_times_new": "%1$d razy",
     "sexual_activity_prefix_new": "%1$s zosta\u0142 zapisany w wybranym okresie czasu.",
-    "delete_account_warning": "Usuni\u0119cie konta spowoduje skasowanie wszystkich twoich danych."
+    "delete_account_warning": "Usuni\u0119cie konta spowoduje skasowanie wszystkich twoich danych.",
+    "label_hours": "godziny",
+    "label_minutes": "minuty",
+    "label_seconds": "sekundy"
   },
   "Bengali": {
     "sync_now": "\u09a4\u09ce\u0995\u09cd\u09b7\u09a3\u09be\u09ce \u09b8\u09bf\u0999\u09cd\u0995 \u0995\u09b0\u09c1\u09a8",
@@ -1277,7 +1322,10 @@
     "locked": "\u09b2\u0995 \u0995\u09b0\u09be \u09b9\u09af\u09bc\u09c7\u099b\u09c7",
     "label_times_new": "%1$d \u09ac\u09be\u09b0",
     "sexual_activity_prefix_new": "\u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09bf\u09a4 \u09b8\u09ae\u09af\u09bc\u0995\u09be\u09b2\u09c7 %1$s \u09b2\u0997 \u0995\u09b0\u09be \u09b9\u09af\u09bc\u09c7\u099b\u09c7\u0964",
-    "delete_account_warning": "\u0986\u09aa\u09a8\u09be\u09b0 \u0985\u09cd\u09af\u09be\u0995\u09be\u0989\u09a8\u09cd\u099f \u09ae\u09c1\u099b\u09c7 \u09ab\u09c7\u09b2\u09b2\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u09b8\u09ae\u09b8\u09cd\u09a4 \u09a4\u09a5\u09cd\u09af \u09ae\u09c1\u099b\u09c7 \u09af\u09be\u09ac\u09c7\u0964"
+    "delete_account_warning": "\u0986\u09aa\u09a8\u09be\u09b0 \u0985\u09cd\u09af\u09be\u0995\u09be\u0989\u09a8\u09cd\u099f \u09ae\u09c1\u099b\u09c7 \u09ab\u09c7\u09b2\u09b2\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u09b8\u09ae\u09b8\u09cd\u09a4 \u09a4\u09a5\u09cd\u09af \u09ae\u09c1\u099b\u09c7 \u09af\u09be\u09ac\u09c7\u0964",
+    "label_hours": "\u0998\u09a3\u09cd\u099f\u09be",
+    "label_minutes": "\u09ae\u09bf\u09a8\u09bf\u099f",
+    "label_seconds": "\u09b8\u09c7\u0995\u09c7\u09a8\u09cd\u09a1"
   },
   "Ukrainian": {
     "sync_now": "\u0421\u0438\u043d\u0445\u0440\u043e\u043d\u0456\u0437\u0443\u0432\u0430\u0442\u0438 \u0437\u0430\u0440\u0430\u0437",
@@ -1357,7 +1405,10 @@
     "locked": "\u0417\u0430\u0431\u043b\u043e\u043a\u043e\u0432\u0430\u043d\u043e",
     "label_times_new": "%1$d \u0440\u0430\u0437\u0456\u0432",
     "sexual_activity_prefix_new": "%1$s \u0431\u0443\u043b\u043e \u0437\u0430\u0444\u0456\u043a\u0441\u043e\u0432\u0430\u043d\u043e \u043f\u0456\u0434 \u0447\u0430\u0441 \u043e\u0431\u0440\u0430\u043d\u043e\u0433\u043e \u043f\u0435\u0440\u0456\u043e\u0434\u0443.",
-    "delete_account_warning": "\u0412\u0438\u0434\u0430\u043b\u0435\u043d\u043d\u044f \u0432\u0430\u0448\u043e\u0433\u043e \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 \u043f\u0440\u0438\u0437\u0432\u0435\u0434\u0435 \u0434\u043e \u0432\u0442\u0440\u0430\u0442\u0438 \u0432\u0441\u0456\u0445 \u0432\u0430\u0448\u0438\u0445 \u0434\u0430\u043d\u0438\u0445."
+    "delete_account_warning": "\u0412\u0438\u0434\u0430\u043b\u0435\u043d\u043d\u044f \u0432\u0430\u0448\u043e\u0433\u043e \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 \u043f\u0440\u0438\u0437\u0432\u0435\u0434\u0435 \u0434\u043e \u0432\u0442\u0440\u0430\u0442\u0438 \u0432\u0441\u0456\u0445 \u0432\u0430\u0448\u0438\u0445 \u0434\u0430\u043d\u0438\u0445.",
+    "label_hours": "\u0433\u043e\u0434\u0438\u043d\u0438",
+    "label_minutes": "\u0445\u0432\u0438\u043b\u0438\u043d\u0438",
+    "label_seconds": "\u0441\u0435\u043a\u0443\u043d\u0434\u0438"
   },
   "Nepali (Nepal)": {
     "sync_now": "\u0905\u0939\u093f\u0932\u0947 \u0928\u0948 \u0938\u093f\u0902\u0915 \u0917\u0930\u094d\u0928\u0941\u0939\u094b\u0938\u094d",
@@ -1437,7 +1488,10 @@
     "locked": "\u0932\u0915 \u0917\u0930\u093f\u090f\u0915\u094b",
     "label_times_new": "%1$d \u092a\u091f\u0915",
     "sexual_activity_prefix_new": "%1$s \u091a\u092f\u0928 \u0917\u0930\u0947\u0915\u094b \u0938\u092e\u092f\u092e\u093e \u0930\u0947\u0915\u0930\u094d\u0921 \u0917\u0930\u093f\u092f\u094b\u0964",
-    "delete_account_warning": "\u0906\u092b\u094d\u0928\u094b \u0916\u093e\u0924\u093e \u092e\u0947\u091f\u093e\u0909\u0901\u0926\u093e \u0924\u092a\u093e\u0908\u0902\u0915\u094b \u0938\u092c\u0948 \u0921\u0947\u091f\u093e \u092e\u0947\u091f\u093f\u0928\u0947\u091b\u0964"
+    "delete_account_warning": "\u0906\u092b\u094d\u0928\u094b \u0916\u093e\u0924\u093e \u092e\u0947\u091f\u093e\u0909\u0901\u0926\u093e \u0924\u092a\u093e\u0908\u0902\u0915\u094b \u0938\u092c\u0948 \u0921\u0947\u091f\u093e \u092e\u0947\u091f\u093f\u0928\u0947\u091b\u0964",
+    "label_hours": "\u0918\u0923\u094d\u091f\u093e",
+    "label_minutes": "\u092e\u093f\u0928\u0947\u091f",
+    "label_seconds": "\u0938\u0947\u0915\u0923\u094d\u0921"
   },
   "Yoruba (Nigeria)": {
     "sync_now": "\u1e62op\u1ecd Bayi",
@@ -1522,6 +1576,9 @@
     "locked": "Kuvaliwe",
     "label_times_new": "%1$d izikhathi",
     "sexual_activity_prefix_new": "Ukusebenza kwezocansi kuka-%1$s kwabhalwa ngalesi sikhathi esikhethiwe.",
-    "delete_account_warning": "Ukususa i-akhawunti yakho kuzokhipha yonke idatha yakho."
+    "delete_account_warning": "Ukususa i-akhawunti yakho kuzokhipha yonke idatha yakho.",
+    "label_hours": "amahora",
+    "label_minutes": "amaminithi",
+    "label_seconds": "amasekhondi"
   }
 }
