@@ -80,7 +80,16 @@
     "delete_account_warning": "\u0905\u092a\u0928\u093e \u0905\u0915\u093e\u0909\u0902\u091f \u0921\u093f\u0932\u0940\u091f \u0915\u0930\u0928\u0947 \u0938\u0947 \u0906\u092a\u0915\u093e \u0938\u093e\u0930\u093e \u0921\u0947\u091f\u093e \u092e\u093f\u091f \u091c\u093e\u090f\u0917\u093e\u0964",
     "label_hours": "\u0918\u0902\u091f\u0947",
     "label_minutes": "\u092e\u093f\u0928\u091f",
-    "label_seconds": "\u0938\u0947\u0915\u0902\u0921"
+    "label_seconds": "\u0938\u0947\u0915\u0902\u0921",
+    "updating_app": "\u0910\u092a \u0905\u092a\u0921\u0947\u091f \u0939\u094b \u0930\u0939\u093e \u0939\u0948... %1$d%%",
+    "update_ready": "\u0907\u0902\u0938\u094d\u091f\u0949\u0932 \u0915\u0947 \u0932\u093f\u090f \u0905\u092a\u0921\u0947\u091f \u0924\u0948\u092f\u093e\u0930 \u0939\u0948",
+    "update_available": "\u0910\u092a \u0905\u092a\u0921\u0947\u091f \u0909\u092a\u0932\u092c\u094d\u0927 \u0939\u0948",
+    "install_now": "\u0905\u092d\u0940 \u0907\u0902\u0938\u094d\u091f\u0949\u0932 \u0915\u0930\u0947\u0902",
+    "update_app": "\u0910\u092a \u0905\u092a\u0921\u0947\u091f \u0915\u0930\u0947\u0902",
+    "old_version_label": "\u092a\u0941\u0930\u093e\u0928\u093e",
+    "new_version_label": "\u0928\u092f\u093e",
+    "update_required_title": "\u0910\u092a \u0905\u092a\u0921\u0947\u091f \u0906\u0935\u0936\u094d\u092f\u0915 \u0939\u0948!",
+    "update_required_subtitle": "\u0910\u092a \u0915\u093e \u092f\u0939 \u0935\u0930\u094d\u0936\u0928 \u0905\u092c \u0938\u092a\u094b\u0930\u094d\u091f\u0947\u0921 \u0928\u0939\u0940\u0902 \u0939\u0948\u0964 \u0915\u0943\u092a\u092f\u093e \u0910\u092a \u0915\u094b \u091c\u093e\u0930\u0940 \u0930\u0916\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u092a\u0921\u0947\u091f \u0915\u0930\u0947\u0902\u0964"
   },
   "Spanish": {
     "sync_now": "Sincronizar ahora",
@@ -163,7 +172,16 @@
     "delete_account_warning": "Eliminar tu cuenta borrar\u00e1 todos tus datos.",
     "label_hours": "horas",
     "label_minutes": "minutos",
-    "label_seconds": "segundos"
+    "label_seconds": "segundos",
+    "updating_app": "Actualizando la app... %1$d%%",
+    "update_ready": "Actualizaci\u00f3n lista para instalar",
+    "update_available": "Actualizaci\u00f3n de la app disponible",
+    "install_now": "Instalar ahora",
+    "update_app": "Actualizar app",
+    "old_version_label": "Antiguo",
+    "new_version_label": "Nuevo",
+    "update_required_title": "\u00a1Actualizaci\u00f3n de la app requerida!",
+    "update_required_subtitle": "Esta versi\u00f3n de la app ya no es compatible. Por favor, actualiza la app para continuar."
   },
   "Mandarin Chinese": {
     "sync_now": "\u7acb\u5373\u540c\u6b65",
@@ -246,7 +264,16 @@
     "delete_account_warning": "\u5220\u9664\u8d26\u6237\u4f1a\u6e05\u7a7a\u6240\u6709\u6570\u636e\u3002",
     "label_hours": "\u5c0f\u65f6",
     "label_minutes": "\u5206\u949f",
-    "label_seconds": "\u79d2"
+    "label_seconds": "\u79d2",
+    "updating_app": "\u6b63\u5728\u66f4\u65b0\u5e94\u7528... %1$d%%",
+    "update_ready": "\u66f4\u65b0\u5df2\u51c6\u5907\u597d\u5b89\u88c5",
+    "update_available": "\u5e94\u7528\u66f4\u65b0\u53ef\u7528",
+    "install_now": "\u7acb\u5373\u5b89\u88c5",
+    "update_app": "\u66f4\u65b0\u5e94\u7528",
+    "old_version_label": "\u65e7\u7248",
+    "new_version_label": "\u65b0\u7248",
+    "update_required_title": "\u9700\u8981\u5e94\u7528\u66f4\u65b0\uff01",
+    "update_required_subtitle": "\u6b64\u7248\u672c\u7684\u5e94\u7528\u5df2\u4e0d\u518d\u53d7\u652f\u6301\u3002\u8bf7\u66f4\u65b0\u5e94\u7528\u4ee5\u7ee7\u7eed\u3002"
   },
   "Portuguese": {
     "sync_now": "Sincronizar agora",
@@ -329,7 +356,16 @@
     "delete_account_warning": "Excluir sua conta apagar\u00e1 todos os seus dados.",
     "label_hours": "horas",
     "label_minutes": "minutos",
-    "label_seconds": "segundos"
+    "label_seconds": "segundos",
+    "updating_app": "Atualizando o app... %1$d%%",
+    "update_ready": "Atualiza\u00e7\u00e3o pronta para instalar",
+    "update_available": "Atualiza\u00e7\u00e3o do app dispon\u00edvel",
+    "install_now": "Instalar agora",
+    "update_app": "Atualizar app",
+    "old_version_label": "Antiga",
+    "new_version_label": "Nova",
+    "update_required_title": "Atualiza\u00e7\u00e3o do app necess\u00e1ria!",
+    "update_required_subtitle": "Esta vers\u00e3o do app n\u00e3o \u00e9 mais suportada. Por favor, atualize o app para continuar."
   },
   "Russian": {
     "sync_now": "\u0421\u0438\u043d\u0445\u0440\u043e\u043d\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0441\u0435\u0439\u0447\u0430\u0441",
@@ -412,7 +448,16 @@
     "delete_account_warning": "\u0423\u0434\u0430\u043b\u0435\u043d\u0438\u0435 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 \u0441\u043e\u0442\u0440\u0435\u0442 \u0432\u0441\u0435 \u0432\u0430\u0448\u0438 \u0434\u0430\u043d\u043d\u044b\u0435.",
     "label_hours": "\u0447\u0430\u0441\u044b",
     "label_minutes": "\u043c\u0438\u043d\u0443\u0442\u044b",
-    "label_seconds": "\u0441\u0435\u043a\u0443\u043d\u0434\u044b"
+    "label_seconds": "\u0441\u0435\u043a\u0443\u043d\u0434\u044b",
+    "updating_app": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f... %1$d%%",
+    "update_ready": "\u0413\u043e\u0442\u043e\u0432\u043e \u043a \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0435",
+    "update_available": "\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+    "install_now": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u0435\u0439\u0447\u0430\u0441",
+    "update_app": "\u041e\u0431\u043d\u043e\u0432\u0438\u0442\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
+    "old_version_label": "\u0421\u0442\u0430\u0440\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f",
+    "new_version_label": "\u041d\u043e\u0432\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f",
+    "update_required_title": "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f!",
+    "update_required_subtitle": "\u042d\u0442\u0430 \u0432\u0435\u0440\u0441\u0438\u044f \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0431\u043e\u043b\u044c\u0448\u0435 \u043d\u0435 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442\u0441\u044f. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043e\u0431\u043d\u043e\u0432\u0438\u0442\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c."
   },
   "Japanese": {
     "sync_now": "\u4eca\u3059\u3050\u540c\u671f",
@@ -495,7 +540,16 @@
     "delete_account_warning": "\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u524a\u9664\u3059\u308b\u3068\u3001\u3059\u3079\u3066\u306e\u30c7\u30fc\u30bf\u304c\u6d88\u53bb\u3055\u308c\u307e\u3059\u3002",
     "label_hours": "\u6642\u9593",
     "label_minutes": "\u5206",
-    "label_seconds": "\u79d2"
+    "label_seconds": "\u79d2",
+    "updating_app": "\u30a2\u30d7\u30ea\u3092\u66f4\u65b0\u4e2d... %1$d%%",
+    "update_ready": "\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u6e96\u5099\u5b8c\u4e86",
+    "update_available": "\u30a2\u30d7\u30ea\u306e\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u304c\u5229\u7528\u53ef\u80fd\u3067\u3059",
+    "install_now": "\u4eca\u3059\u3050\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb",
+    "update_app": "\u30a2\u30d7\u30ea\u3092\u66f4\u65b0\u3059\u308b",
+    "old_version_label": "\u65e7",
+    "new_version_label": "\u65b0",
+    "update_required_title": "\u30a2\u30d7\u30ea\u306e\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u304c\u5fc5\u8981\u3067\u3059\uff01",
+    "update_required_subtitle": "\u3053\u306e\u30d0\u30fc\u30b8\u30e7\u30f3\u306e\u30a2\u30d7\u30ea\u306f\u30b5\u30dd\u30fc\u30c8\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002\u7d9a\u3051\u308b\u306b\u306f\u30a2\u30d7\u30ea\u3092\u66f4\u65b0\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
   },
   "Korean": {
     "sync_now": "\uc9c0\uae08 \ub3d9\uae30\ud654",
@@ -578,7 +632,16 @@
     "delete_account_warning": "\uacc4\uc815\uc744 \uc0ad\uc81c\ud558\uba74 \ubaa8\ub4e0 \ub370\uc774\ud130\uac00 \uc0ad\uc81c\ub429\ub2c8\ub2e4.",
     "label_hours": "\uc2dc\uac04",
     "label_minutes": "\ubd84",
-    "label_seconds": "\ucd08"
+    "label_seconds": "\ucd08",
+    "updating_app": "\uc571\uc744 \uc5c5\ub370\uc774\ud2b8 \uc911\uc785\ub2c8\ub2e4... %1$d%%",
+    "update_ready": "\uc124\uce58\ud560 \uc900\ube44\uac00 \ub41c \uc5c5\ub370\uc774\ud2b8",
+    "update_available": "\uc571 \uc5c5\ub370\uc774\ud2b8 \uac00\ub2a5",
+    "install_now": "\uc9c0\uae08 \uc124\uce58",
+    "update_app": "\uc571 \uc5c5\ub370\uc774\ud2b8",
+    "old_version_label": "\uc774\uc804 \ubc84\uc804",
+    "new_version_label": "\uc0c8 \ubc84\uc804",
+    "update_required_title": "\uc571 \uc5c5\ub370\uc774\ud2b8 \ud544\uc694!",
+    "update_required_subtitle": "\uc774 \ubc84\uc804\uc758 \uc571\uc740 \ub354 \uc774\uc0c1 \uc9c0\uc6d0\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \uacc4\uc18d\ud558\ub824\uba74 \uc571\uc744 \uc5c5\ub370\uc774\ud2b8\ud558\uc138\uc694."
   },
   "Indonesian (Bahasa Indonesia)": {
     "sync_now": "Sinkronkan Sekarang",
@@ -661,7 +724,16 @@
     "delete_account_warning": "Menghapus akun Anda akan menghapus semua data Anda.",
     "label_hours": "jam",
     "label_minutes": "menit",
-    "label_seconds": "detik"
+    "label_seconds": "detik",
+    "updating_app": "Memperbarui aplikasi... %1$d%%",
+    "update_ready": "Pembaruan siap untuk diinstal",
+    "update_available": "Pembaruan aplikasi tersedia",
+    "install_now": "Instal Sekarang",
+    "update_app": "Perbarui Aplikasi",
+    "old_version_label": "Lama",
+    "new_version_label": "Baru",
+    "update_required_title": "Diperlukan pembaruan aplikasi!",
+    "update_required_subtitle": "Versi aplikasi ini tidak lagi didukung. Silakan perbarui aplikasi untuk melanjutkan."
   },
   "Turkish": {
     "sync_now": "\u015eimdi Senkronize Et",
@@ -744,7 +816,16 @@
     "delete_account_warning": "Hesab\u0131n\u0131z\u0131 silmek, t\u00fcm verilerinizi silecektir.",
     "label_hours": "saatler",
     "label_minutes": "dakikalar",
-    "label_seconds": "saniyeler"
+    "label_seconds": "saniyeler",
+    "updating_app": "Uygulama g\u00fcncelleniyor... %1$d%%",
+    "update_ready": "G\u00fcncelleme y\u00fcklenmeye haz\u0131r",
+    "update_available": "Uygulama g\u00fcncellemesi mevcut",
+    "install_now": "\u015eimdi Y\u00fckle",
+    "update_app": "Uygulamay\u0131 G\u00fcncelle",
+    "old_version_label": "Eski",
+    "new_version_label": "Yeni",
+    "update_required_title": "Uygulama g\u00fcncellemesi gerekli!",
+    "update_required_subtitle": "Bu uygulama s\u00fcr\u00fcm\u00fc art\u0131k desteklenmiyor. Devam etmek i\u00e7in uygulamay\u0131 g\u00fcncelleyin."
   },
   "Thai": {
     "sync_now": "\u0e0b\u0e34\u0e07\u0e04\u0e4c\u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e19\u0e35\u0e49",
@@ -827,7 +908,16 @@
     "delete_account_warning": "\u0e01\u0e32\u0e23\u0e25\u0e1a\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e08\u0e30\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e2b\u0e32\u0e22\u0e44\u0e1b",
     "label_hours": "\u0e0a\u0e31\u0e48\u0e27\u0e42\u0e21\u0e07",
     "label_minutes": "\u0e19\u0e32\u0e17\u0e35",
-    "label_seconds": "\u0e27\u0e34\u0e19\u0e32\u0e17\u0e35"
+    "label_seconds": "\u0e27\u0e34\u0e19\u0e32\u0e17\u0e35",
+    "updating_app": "\u0e01\u0e33\u0e25\u0e31\u0e07\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e41\u0e2d\u0e1b... %1$d%%",
+    "update_ready": "\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07\u0e41\u0e25\u0e49\u0e27",
+    "update_available": "\u0e21\u0e35\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e41\u0e2d\u0e1b\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19",
+    "install_now": "\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07\u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e19\u0e35\u0e49",
+    "update_app": "\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e41\u0e2d\u0e1b",
+    "old_version_label": "\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e0a\u0e31\u0e19\u0e40\u0e01\u0e48\u0e32",
+    "new_version_label": "\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e0a\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48",
+    "update_required_title": "\u0e15\u0e49\u0e2d\u0e07\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e41\u0e2d\u0e1b!",
+    "update_required_subtitle": "\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e0a\u0e31\u0e19\u0e19\u0e35\u0e49\u0e02\u0e2d\u0e07\u0e41\u0e2d\u0e1b\u0e44\u0e21\u0e48\u0e23\u0e2d\u0e07\u0e23\u0e31\u0e1a\u0e2d\u0e35\u0e01\u0e15\u0e48\u0e2d\u0e44\u0e1b \u0e01\u0e23\u0e38\u0e13\u0e32\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e41\u0e2d\u0e1b\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e15\u0e48\u0e2d"
   },
   "Vietnamese": {
     "sync_now": "\u0110\u1ed3ng b\u1ed9 ngay",
@@ -910,7 +1000,16 @@
     "delete_account_warning": "X\u00f3a t\u00e0i kho\u1ea3n c\u1ee7a b\u1ea1n s\u1ebd x\u00f3a to\u00e0n b\u1ed9 d\u1eef li\u1ec7u c\u1ee7a b\u1ea1n.",
     "label_hours": "gi\u1edd",
     "label_minutes": "ph\u00fat",
-    "label_seconds": "gi\u00e2y"
+    "label_seconds": "gi\u00e2y",
+    "updating_app": "\u0110ang c\u1eadp nh\u1eadt \u1ee9ng d\u1ee5ng... %1$d%%",
+    "update_ready": "S\u1eb5n s\u00e0ng c\u00e0i \u0111\u1eb7t b\u1ea3n c\u1eadp nh\u1eadt",
+    "update_available": "C\u00f3 c\u1eadp nh\u1eadt \u1ee9ng d\u1ee5ng m\u1edbi",
+    "install_now": "C\u00e0i \u0111\u1eb7t ngay",
+    "update_app": "C\u1eadp nh\u1eadt \u1ee9ng d\u1ee5ng",
+    "old_version_label": "Phi\u00ean b\u1ea3n c\u0169",
+    "new_version_label": "Phi\u00ean b\u1ea3n m\u1edbi",
+    "update_required_title": "C\u1ea7n c\u1eadp nh\u1eadt \u1ee9ng d\u1ee5ng!",
+    "update_required_subtitle": "Phi\u00ean b\u1ea3n n\u00e0y c\u1ee7a \u1ee9ng d\u1ee5ng kh\u00f4ng c\u00f2n \u0111\u01b0\u1ee3c h\u1ed7 tr\u1ee3. Vui l\u00f2ng c\u1eadp nh\u1eadt \u1ee9ng d\u1ee5ng \u0111\u1ec3 ti\u1ebfp t\u1ee5c."
   },
   "French": {
     "sync_now": "Synchroniser maintenant",
@@ -993,7 +1092,16 @@
     "delete_account_warning": "Supprimer votre compte effacera toutes vos donn\u00e9es.",
     "label_hours": "heures",
     "label_minutes": "minutes",
-    "label_seconds": "secondes"
+    "label_seconds": "secondes",
+    "updating_app": "Mise \u00e0 jour de l'application... %1$d%%",
+    "update_ready": "Mise \u00e0 jour pr\u00eate \u00e0 installer",
+    "update_available": "Mise \u00e0 jour de l'application disponible",
+    "install_now": "Installer maintenant",
+    "update_app": "Mettre \u00e0 jour l'application",
+    "old_version_label": "Ancienne",
+    "new_version_label": "Nouvelle",
+    "update_required_title": "Mise \u00e0 jour de l'application requise !",
+    "update_required_subtitle": "Cette version de l'application n'est plus support\u00e9e. Veuillez mettre \u00e0 jour l'application pour continuer."
   },
   "German": {
     "sync_now": "Jetzt synchronisieren",
@@ -1076,7 +1184,16 @@
     "delete_account_warning": "Wenn Sie Ihr Konto l\u00f6schen, werden alle Ihre Daten entfernt.",
     "label_hours": "Stunden",
     "label_minutes": "Minuten",
-    "label_seconds": "Sekunden"
+    "label_seconds": "Sekunden",
+    "updating_app": "App wird aktualisiert... %1$d%%",
+    "update_ready": "Update bereit zur Installation",
+    "update_available": "App-Update verf\u00fcgbar",
+    "install_now": "Jetzt installieren",
+    "update_app": "App aktualisieren",
+    "old_version_label": "Alt",
+    "new_version_label": "Neu",
+    "update_required_title": "App-Update erforderlich!",
+    "update_required_subtitle": "Diese Version der App wird nicht mehr unterst\u00fctzt. Bitte aktualisieren Sie die App, um fortzufahren."
   },
   "Italian": {
     "sync_now": "Sincronizza ora",
@@ -1159,7 +1276,16 @@
     "delete_account_warning": "Cancellare il tuo account canceller\u00e0 tutti i tuoi dati.",
     "label_hours": "ore",
     "label_minutes": "minuti",
-    "label_seconds": "secondi"
+    "label_seconds": "secondi",
+    "updating_app": "Aggiornamento dell'app in corso... %1$d%%",
+    "update_ready": "Aggiornamento pronto per l'installazione",
+    "update_available": "Aggiornamento app disponibile",
+    "install_now": "Installa ora",
+    "update_app": "Aggiorna app",
+    "old_version_label": "Vecchia",
+    "new_version_label": "Nuova",
+    "update_required_title": "\u00c8 necessario un aggiornamento dell'app!",
+    "update_required_subtitle": "Questa versione dell'app non \u00e8 pi\u00f9 supportata. Aggiorna l'app per continuare."
   },
   "Polish": {
     "sync_now": "Synchronizuj teraz",
@@ -1242,7 +1368,16 @@
     "delete_account_warning": "Usuni\u0119cie konta spowoduje skasowanie wszystkich twoich danych.",
     "label_hours": "godziny",
     "label_minutes": "minuty",
-    "label_seconds": "sekundy"
+    "label_seconds": "sekundy",
+    "updating_app": "Aktualizowanie aplikacji... %1$d%%",
+    "update_ready": "Aktualizacja gotowa do zainstalowania",
+    "update_available": "Dost\u0119pna aktualizacja aplikacji",
+    "install_now": "Zainstaluj teraz",
+    "update_app": "Zaktualizuj aplikacj\u0119",
+    "old_version_label": "Stara",
+    "new_version_label": "Nowa",
+    "update_required_title": "Wymagana aktualizacja aplikacji!",
+    "update_required_subtitle": "Ta wersja aplikacji nie jest ju\u017c wspierana. Prosz\u0119 zaktualizowa\u0107 aplikacj\u0119, aby kontynuowa\u0107."
   },
   "Bengali": {
     "sync_now": "\u09a4\u09ce\u0995\u09cd\u09b7\u09a3\u09be\u09ce \u09b8\u09bf\u0999\u09cd\u0995 \u0995\u09b0\u09c1\u09a8",
@@ -1325,7 +1460,16 @@
     "delete_account_warning": "\u0986\u09aa\u09a8\u09be\u09b0 \u0985\u09cd\u09af\u09be\u0995\u09be\u0989\u09a8\u09cd\u099f \u09ae\u09c1\u099b\u09c7 \u09ab\u09c7\u09b2\u09b2\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u09b8\u09ae\u09b8\u09cd\u09a4 \u09a4\u09a5\u09cd\u09af \u09ae\u09c1\u099b\u09c7 \u09af\u09be\u09ac\u09c7\u0964",
     "label_hours": "\u0998\u09a3\u09cd\u099f\u09be",
     "label_minutes": "\u09ae\u09bf\u09a8\u09bf\u099f",
-    "label_seconds": "\u09b8\u09c7\u0995\u09c7\u09a8\u09cd\u09a1"
+    "label_seconds": "\u09b8\u09c7\u0995\u09c7\u09a8\u09cd\u09a1",
+    "updating_app": "\u0985\u09cd\u09af\u09be\u09aa \u0986\u09aa\u09a1\u09c7\u099f \u09b9\u099a\u09cd\u099b\u09c7... %1$d%%",
+    "update_ready": "\u0987\u09a8\u09b8\u09cd\u099f\u09b2 \u0995\u09b0\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u0986\u09aa\u09a1\u09c7\u099f \u09aa\u09cd\u09b0\u09b8\u09cd\u09a4\u09c1\u09a4",
+    "update_available": "\u0985\u09cd\u09af\u09be\u09aa\u09c7\u09b0 \u0986\u09aa\u09a1\u09c7\u099f \u0989\u09aa\u09b2\u09ad\u09cd\u09af",
+    "install_now": "\u098f\u0996\u09a8\u0987 \u0987\u09a8\u09b8\u09cd\u099f\u09b2 \u0995\u09b0\u09c1\u09a8",
+    "update_app": "\u0985\u09cd\u09af\u09be\u09aa \u0986\u09aa\u09a1\u09c7\u099f \u0995\u09b0\u09c1\u09a8",
+    "old_version_label": "\u09aa\u09c1\u09b0\u09be\u09a8\u09cb",
+    "new_version_label": "\u09a8\u09a4\u09c1\u09a8",
+    "update_required_title": "\u0985\u09cd\u09af\u09be\u09aa \u0986\u09aa\u09a1\u09c7\u099f \u09aa\u09cd\u09b0\u09af\u09bc\u09cb\u099c\u09a8!",
+    "update_required_subtitle": "\u0985\u09cd\u09af\u09be\u09aa\u09c7\u09b0 \u098f\u0987 \u09b8\u0982\u09b8\u09cd\u0995\u09b0\u09a3\u099f\u09bf \u0986\u09b0 \u09b8\u09ae\u09b0\u09cd\u09a5\u09bf\u09a4 \u09a8\u09af\u09bc\u0964 \u099a\u09be\u09b2\u09bf\u09af\u09bc\u09c7 \u09af\u09c7\u09a4\u09c7 \u0985\u09cd\u09af\u09be\u09aa\u099f\u09bf \u0986\u09aa\u09a1\u09c7\u099f \u0995\u09b0\u09c1\u09a8\u0964"
   },
   "Ukrainian": {
     "sync_now": "\u0421\u0438\u043d\u0445\u0440\u043e\u043d\u0456\u0437\u0443\u0432\u0430\u0442\u0438 \u0437\u0430\u0440\u0430\u0437",
@@ -1408,7 +1552,16 @@
     "delete_account_warning": "\u0412\u0438\u0434\u0430\u043b\u0435\u043d\u043d\u044f \u0432\u0430\u0448\u043e\u0433\u043e \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0443 \u043f\u0440\u0438\u0437\u0432\u0435\u0434\u0435 \u0434\u043e \u0432\u0442\u0440\u0430\u0442\u0438 \u0432\u0441\u0456\u0445 \u0432\u0430\u0448\u0438\u0445 \u0434\u0430\u043d\u0438\u0445.",
     "label_hours": "\u0433\u043e\u0434\u0438\u043d\u0438",
     "label_minutes": "\u0445\u0432\u0438\u043b\u0438\u043d\u0438",
-    "label_seconds": "\u0441\u0435\u043a\u0443\u043d\u0434\u0438"
+    "label_seconds": "\u0441\u0435\u043a\u0443\u043d\u0434\u0438",
+    "updating_app": "\u041e\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0443... %1$d%%",
+    "update_ready": "\u041e\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u0433\u043e\u0442\u043e\u0432\u0435 \u0434\u043e \u0432\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044f",
+    "update_available": "\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u0435 \u043e\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0443",
+    "install_now": "\u0412\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0438 \u0437\u0430\u0440\u0430\u0437",
+    "update_app": "\u041e\u043d\u043e\u0432\u0438\u0442\u0438 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a",
+    "old_version_label": "\u0421\u0442\u0430\u0440\u0430",
+    "new_version_label": "\u041d\u043e\u0432\u0430",
+    "update_required_title": "\u041f\u043e\u0442\u0440\u0456\u0431\u043d\u043e \u043e\u043d\u043e\u0432\u0438\u0442\u0438 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a!",
+    "update_required_subtitle": "\u0426\u044f \u0432\u0435\u0440\u0441\u0456\u044f \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0443 \u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0435 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454\u0442\u044c\u0441\u044f. \u0411\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430, \u043e\u043d\u043e\u0432\u0456\u0442\u044c \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a, \u0449\u043e\u0431 \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0438\u0442\u0438."
   },
   "Nepali (Nepal)": {
     "sync_now": "\u0905\u0939\u093f\u0932\u0947 \u0928\u0948 \u0938\u093f\u0902\u0915 \u0917\u0930\u094d\u0928\u0941\u0939\u094b\u0938\u094d",
@@ -1491,7 +1644,16 @@
     "delete_account_warning": "\u0906\u092b\u094d\u0928\u094b \u0916\u093e\u0924\u093e \u092e\u0947\u091f\u093e\u0909\u0901\u0926\u093e \u0924\u092a\u093e\u0908\u0902\u0915\u094b \u0938\u092c\u0948 \u0921\u0947\u091f\u093e \u092e\u0947\u091f\u093f\u0928\u0947\u091b\u0964",
     "label_hours": "\u0918\u0923\u094d\u091f\u093e",
     "label_minutes": "\u092e\u093f\u0928\u0947\u091f",
-    "label_seconds": "\u0938\u0947\u0915\u0923\u094d\u0921"
+    "label_seconds": "\u0938\u0947\u0915\u0923\u094d\u0921",
+    "updating_app": "\u090f\u092a \u0905\u092a\u0921\u0947\u091f \u0939\u0941\u0901\u0926\u0948\u091b... %1$d%%",
+    "update_ready": "\u0907\u0928\u094d\u0938\u094d\u091f\u0932 \u0917\u0930\u094d\u0928 \u0905\u092a\u0921\u0947\u091f \u0924\u092f\u093e\u0930 \u091b",
+    "update_available": "\u090f\u092a \u0905\u092a\u0921\u0947\u091f \u0909\u092a\u0932\u092c\u094d\u0927 \u091b",
+    "install_now": "\u0905\u0939\u093f\u0932\u0947 \u0907\u0928\u094d\u0938\u094d\u091f\u0932 \u0917\u0930\u094d\u0928\u0941\u0939\u094b\u0938\u094d",
+    "update_app": "\u090f\u092a \u0905\u092a\u0921\u0947\u091f \u0917\u0930\u094d\u0928\u0941\u0939\u094b\u0938\u094d",
+    "old_version_label": "\u092a\u0941\u0930\u093e\u0928\u094b",
+    "new_version_label": "\u0928\u092f\u093e\u0901",
+    "update_required_title": "\u090f\u092a \u0905\u092a\u0921\u0947\u091f \u0906\u0935\u0936\u094d\u092f\u0915 \u091b!",
+    "update_required_subtitle": "\u090f\u092a\u0915\u094b \u092f\u094b \u0938\u0902\u0938\u094d\u0915\u0930\u0923 \u0905\u092c \u0938\u092e\u0930\u094d\u0925\u093f\u0924 \u091b\u0948\u0928\u0964 \u091c\u093e\u0930\u0940 \u0930\u093e\u0916\u094d\u0928 \u0915\u0943\u092a\u092f\u093e \u090f\u092a \u0905\u092a\u0921\u0947\u091f \u0917\u0930\u094d\u0928\u0941\u0939\u094b\u0938\u094d\u0964"
   },
   "Yoruba (Nigeria)": {
     "sync_now": "\u1e62op\u1ecd Bayi",
@@ -1579,6 +1741,15 @@
     "delete_account_warning": "Ukususa i-akhawunti yakho kuzokhipha yonke idatha yakho.",
     "label_hours": "amahora",
     "label_minutes": "amaminithi",
-    "label_seconds": "amasekhondi"
+    "label_seconds": "amasekhondi",
+    "updating_app": "Kuvuselela uhlelo lokusebenza... %1$d%%",
+    "update_ready": "Isibuyekezo sesilungele ukufakwa",
+    "update_available": "Isibuyekezo sohlelo lokusebenza sitholakala",
+    "install_now": "Faka Manje",
+    "update_app": "Vuselela Uhlelo Lokusebenza",
+    "old_version_label": "Okudala",
+    "new_version_label": "Okusha",
+    "update_required_title": "Kudingeka isibuyekezo sohlelo lokusebenza!",
+    "update_required_subtitle": "Le nguqulo yohlelo lokusebenza ayikho esekelwa. Sicela uvuselele uhlelo lokusebenza ukuze uqhubeke."
   }
 }
